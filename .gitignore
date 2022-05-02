@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Julia
+Manifest.toml
+Project.toml
+
+#VSCode
+.vscode
